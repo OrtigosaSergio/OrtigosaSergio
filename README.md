@@ -1,7 +1,5 @@
 <!-- Ocultar la primera línea -->
 
-### Hi there 👋
-
 # ¡Hola, mundo! 👋 Soy Sergio Ortigosa
 
 Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y un entusiasta de todas sus tecnologías. Actualmente, me encuentro inmerso en una emocionante formación en **BOSONIT**, donde estoy explorando las complejidades del análisis de datos a gran escala.
