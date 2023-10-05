@@ -1,3 +1,5 @@
+<!-- Ocultar la primera línea -->
+
 ### Hi there 👋
 
 # ¡Hola, mundo! 👋 Soy Sergio Ortigosa
