@@ -6,7 +6,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y
 
 *En los siguientes enlaces, podrás encontrar repositorios con algunos de los ejercicios, proyectos, y pruebas que he ido realizando a lo largo de mi formación*:
 
-- [Repositorio de Scala](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
+- [Repositorio de Scala / ejercicios-de-oreilly](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
 
 ## Sobre mí 👨‍💻
 
