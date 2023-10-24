@@ -21,8 +21,9 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y
 skills = {
     "Big Data": ["Apache Spark", "Hadoop", "Hive", "Impala"],
     "Bases de Datos": ["SQL", "MySQL", "PostgreSQL", "Microsoft SQL Server"],
-    "Lenguajes": ["Python", "R"],
-    "Herramientas": ["Git", "Jupyter", "PowerBI"],
+    "Lenguajes": ["Python", "Scala", "R"],
+    "Herramientas": ["IntelliJ", "Git", "Jupyter", "PowerBI"],
+    "Librerías": ["Pandas"]
 }
 ```
 
