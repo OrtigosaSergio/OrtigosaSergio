@@ -4,7 +4,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y
 
 *En los siguientes enlaces, podrás encontrar repositorios con algunos de los ejercicios, proyectos, y pruebas que he ido realizando a lo largo de mi formación*:
 
-- [Repositorio de códigos Scala (Ejercicios del libro "Learning Spark", de O'Reilly)](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
+- [Repositorio de códigos Scala ("Learning Spark - Lightning-Fast Data Analytics", de O'Reilly)](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
 
 ## Sobre mí 👨‍💻
 
