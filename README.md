@@ -1,17 +1,15 @@
-<!-- Ocultar la primera línea -->
-
 # ¡Hola, mundo! 👋 Soy Sergio Ortigosa
 
-Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y un entusiasta de todas sus tecnologías. Actualmente, me encuentro inmerso en una emocionante formación en **BOSONIT**, donde estoy explorando las complejidades del análisis de datos a gran escala.
+Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y un entusiasta de todas sus tecnologías. Actualmente, me encuentro inmerso en una formación en **BOSONIT**, donde estoy explorando las complejidades del análisis de datos a gran escala.
 
 *En los siguientes enlaces, podrás encontrar repositorios con algunos de los ejercicios, proyectos, y pruebas que he ido realizando a lo largo de mi formación*:
 
-- [Repositorio de Scala / ejercicios-de-oreilly](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
+- [Repositorio de códigos Scala (Ejercicios del libro "Learning Spark", de O'Reilly](https://github.com/OrtigosaSergio/ejercicios-de-oreilly)
 
 ## Sobre mí 👨‍💻
 
 - 🚀 Estoy formándome en **BOSONIT** en el mundo del Big Data.
-- 💻 Trabajo con: Spark, SQL, Python y otros lenguajes y tecnologías empleados en este ámbito.
+- 💻 Trabajo con: Spark, Python, R, SQL y otros lenguajes y tecnologías empleados en este ámbito.
 - 🧠 Siempre dispuesto a aprender cosas nuevas.
 - 💡 Objetivo: Contribuir al mundo del Big Data y crear soluciones innovadoras.
 
@@ -19,11 +17,10 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado por el mundo del Big Data y
 
 ```python
 skills = {
-    "Big Data": ["Apache Spark", "Hadoop", "Hive", "Impala"],
+    "Big Data": ["Apache Spark", "Databricks, "Hadoop", "Hive", "Impala"],
     "Bases de Datos": ["SQL", "MySQL", "PostgreSQL", "Microsoft SQL Server"],
     "Lenguajes": ["Python", "Scala", "R"],
-    "Herramientas": ["IntelliJ", "Git", "Jupyter", "PowerBI"],
-    "Librerías": ["Pandas"]
+    "Herramientas": ["IntelliJ", "Databricks", "JupyterLab", "PowerBI", "Git"]
 }
 ```
 
