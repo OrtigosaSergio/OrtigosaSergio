@@ -31,4 +31,4 @@ skills = {
 
 ## Contacto 📬
 
-¡Me encantaría conectar contigo! 😊 Si quieres hablar sobre Big Data, tecnologías emergentes o cualquier otra cosa, no dudes en [contactarme](www.linkedin.com/in/sergio-ortigosa-martínez).
+¡Me encantaría conectar contigo! 😊 Si quieres hablar sobre Big Data, tecnologías emergentes o conocer más sobre mis proyectos personales, no dudes en [contactarme](www.linkedin.com/in/sergio-ortigosa-martínez).
