@@ -22,7 +22,7 @@ skills = {
 
 ## Proyectos personales 📊
 
-- 🎓 Predicción de la aceptación de códigos promocionales mediante modelos de machine learning: trabajé con R y Python para el análisis, exploración y explotación de una base de datos, con el fin de desarrollar modelos de ML capaces de predecir qué clientes de una marca serían aceptantes de una promoción de descuento [(Trabajo de Fin de Máster en Minería de Datos e Inteligencia de Negocios)](https://github.com/OrtigosaSergio/MasterThesis).
+- 🎓 Predicción de la aceptación de códigos promocionales mediante modelos de machine learning: uso de R y Python para el análisis y explotación de una base de datos, con el fin de desarrollar modelos de ML capaces de predecir qué clientes de una marca serían aceptantes de una promoción de descuento [(Trabajo de Fin de Máster en Minería de Datos e Inteligencia de Negocios)](https://github.com/OrtigosaSergio/MasterThesis).
 - 📈 Análisis de la evolución en tiempo real del valor de criptomonedas como Bitcoin o Ethereum: a través de diversas librerías de Python como Pandas, Seaborn o Selenium, en colaboración con MySQL y PowerBI.
 
 *Además, en los siguientes enlaces, podrás encontrar repositorios con algunos de los ejercicios, proyectos, y pruebas que he ido realizando a lo largo de mi formación*:
